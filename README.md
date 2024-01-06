@@ -130,7 +130,7 @@ As the project leader, I'd like to thank each project member for their dedicated
 
 <h3 align="left">Ask Me Anything 🤝</h3>
 <p align="left">
-<a href="www.linkedin.com/in/sadeesha-perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadeesha-perera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sadeesha-perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadeesha-perera" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sadeesha.b.perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadeesha.b.perera" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sadeesha_b_perera_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadeesha_b_perera_" height="30" width="40" /></a>
 </p>
